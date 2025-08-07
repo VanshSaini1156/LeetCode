@@ -13,12 +13,17 @@
 ## String
 |  |
 | ------- |
+| [0151-reverse-words-in-a-string](https://github.com/VanshSaini1156/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 | [0205-isomorphic-strings](https://github.com/VanshSaini1156/LeetCode/tree/master/0205-isomorphic-strings) |
 | [0451-sort-characters-by-frequency](https://github.com/VanshSaini1156/LeetCode/tree/master/0451-sort-characters-by-frequency) |
 ## Hash Table
 |  |
 | ------- |
 | [0205-isomorphic-strings](https://github.com/VanshSaini1156/LeetCode/tree/master/0205-isomorphic-strings) |
+## Two Pointers
+|  |
+| ------- |
+| [0151-reverse-words-in-a-string](https://github.com/VanshSaini1156/LeetCode/tree/master/0151-reverse-words-in-a-string) |
 <!---LeetCode Topics End-->tiple Approaches (Java)"
 
 <!---LeetCode Topics Start-->
